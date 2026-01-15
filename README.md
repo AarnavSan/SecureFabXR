@@ -8,6 +8,9 @@ A mixed reality application for industrial manufacturing that detects and identi
 
 ![Demo of part detection in mixed reality](docs/Demo-YOLO.gif)
 
+## ⚓ Deep Dive
+Read in more detail on **[Notion](https://smiling-cap-7e6.notion.site/SecureFab-XR-Privacy-First-Mixed-Reality-Training-for-Regulated-Manufacturing-2dfdf2206e4580e492cfe155c4ee049d)**. 
+
 ## 🎯 What Does This Project Do?
 
 **Secure Fab XR** is designed for manufacturing and assembly environments where workers need to identify specific parts from bins, workbenches, or assembly stations containing multiple components. The application:
